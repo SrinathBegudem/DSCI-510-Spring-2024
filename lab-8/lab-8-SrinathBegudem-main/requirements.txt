@@ -1,0 +1,6 @@
+black
+flake8
+requests
+beautifulsoup4
+pytest
+pytest-timeout
